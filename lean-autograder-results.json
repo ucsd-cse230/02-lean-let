@@ -1,0 +1,13 @@
+{"totalScore": 0,
+ "totalMaxScore": 100,
+ "files":
+ [{"totalScore": 0,
+   "totalMaxScore": 100,
+   "tests":
+   [{"score": 0, "name": "RPath_Path", "maxScore": 15},
+    {"score": 0, "name": "lval_LvRel", "maxScore": 25},
+    {"score": 0, "name": "RPath_trans", "maxScore": 20},
+    {"score": 0, "name": "LvRel_lval", "maxScore": 15},
+    {"score": 0, "name": "rstep_is_path", "maxScore": 10},
+    {"score": 0, "name": "Path_RPath", "maxScore": 15}],
+   "file": "Let.lean"}]}
