@@ -128,7 +128,7 @@ inductive RPath {a: Type} (r: Rel a) : a -> a -> Prop where
 
 -- | Prove that a single link makes a Path ---------------------------------------------------------
 
--- @[autogradedProof 10]
+@[autogradedProof 10]
 theorem step_is_path : ∀ {a: Type} {r: Rel a} {x y: a}, r x y -> Path r x y := by
   sorry
 
